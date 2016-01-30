@@ -1,0 +1,28 @@
+name: testRD
+favicon: null
+layout_spectrum: 0.2680476112291217
+typography_spectrum: 0.007424157811328769
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5831425404176116
+  lightness: 0.53441101917997
+  saturation: 0.4103843842167407
+  rhythmicContrast: 0.8377038342878222
+purpose: []
